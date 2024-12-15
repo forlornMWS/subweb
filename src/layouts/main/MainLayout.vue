@@ -44,4 +44,9 @@ export default {
 <style scoped>
 @import '@/assets/vendor/css/pages/front-page.css';
 @import '@/assets/vendor/css/pages/front-page-landing.css';
+.footer-bar {
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
 </style>

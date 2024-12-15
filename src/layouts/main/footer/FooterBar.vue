@@ -5,8 +5,8 @@
         <div class="mb-2 mb-md-0">
           <span class="footer-text">GitHub:&nbsp;</span>
           <span class="footer-text"
-            ><a href="https://github.com/stilleshan/subweb" target="_blank" class="fw-medium text-white footer-link"
-              >stilleshan/subweb</a
+            ><a href="https://github.com/forlornMWS/subweb" target="_blank" class="fw-medium text-white footer-link"
+              >forlornMWS/SubWeb</a
             ></span
           >
         </div>
@@ -20,3 +20,12 @@ export default {
   name: 'FooterBar',
 };
 </script>
+
+<style scoped>
+.landing-footer {
+  position: fixed;
+  bottom: 20px;
+  width: 100%;
+}
+</style>
+

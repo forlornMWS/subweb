@@ -1,10 +1,11 @@
 window.config = {
   // 网站标题
-  siteName: 'Subconverter Web',
+  siteName: 'SubConverter Web',
   // API 地址
   apiUrl: 'http://127.0.0.1:25500',
   // 短域名服务地址
-  shortUrl: 'https://s.ops.ci',
+  shortUrl: '/tools/url/short/generate',
+  shortUrlVisit: 'http://localhost:3000/tools/url/short/',
   // 首页菜单
   menuItem: [
     {
